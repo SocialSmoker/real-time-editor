@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/real-time-editor/static/css/main.f6802f4d.css",
-    "main.js": "/real-time-editor/static/js/main.b915d468.js",
+    "main.js": "/real-time-editor/static/js/main.c1c4d40d.js",
     "static/js/453.ab3d284a.chunk.js": "/real-time-editor/static/js/453.ab3d284a.chunk.js",
     "index.html": "/real-time-editor/index.html",
     "main.f6802f4d.css.map": "/real-time-editor/static/css/main.f6802f4d.css.map",
-    "main.b915d468.js.map": "/real-time-editor/static/js/main.b915d468.js.map",
+    "main.c1c4d40d.js.map": "/real-time-editor/static/js/main.c1c4d40d.js.map",
     "453.ab3d284a.chunk.js.map": "/real-time-editor/static/js/453.ab3d284a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6802f4d.css",
-    "static/js/main.b915d468.js"
+    "static/js/main.c1c4d40d.js"
   ]
 }
